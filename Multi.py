@@ -189,12 +189,12 @@ def decision_tree():
     accuracy = accuracy_score(y_test_split, predictions)
     print("Accuracy on the decision tree testing set:", accuracy)
 
-logistic_regression()
-linear_regression()
-svm_classifier()
-naive_bayes()
-knn_classifier()
-decision_tree()
+#logistic_regression()
+#linear_regression()
+#svm_classifier()
+#naive_bayes()
+#knn_classifier()
+#decision_tree()
 random_forest()
 
 
